@@ -27,3 +27,6 @@ desktop.ini
 # Editor directories
 .vscode/
 .idea/
+
+# Local helper scripts
+رفع_المشروع_إلى_GitHub.bat
